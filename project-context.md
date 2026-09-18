@@ -38,3 +38,9 @@
 - `npm run build`
 - `npm run check`
 - Production QA must cover every sitemap route, representative assets, 404, exact Store identities and badge-frame CSS.
+
+## Deployment — 2026-09-19
+
+- Public GitHub repository created and Pages configured for GitHub Actions.
+- Successful initial Pages deployment run: `35371544734`.
+- Production QA passed for all 36 sitemap routes, eight representative assets, custom 404, exact Store identities, global `keep-all` and equal marketplace badge frames.
